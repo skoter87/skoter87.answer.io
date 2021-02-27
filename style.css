@@ -1,0 +1,50 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Akaya Telivigala', cursive;
+	color: 000;
+	font-size: 16px;
+	background: url(bg.svg);
+}
+h1, h2, h3, h4, h5, h6{
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+ul, li {
+	display: flex;
+}
+.container{
+	width: 1170px;
+	
+}
+.header {
+
+}
+.menu{
+	display: flex;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 40px;
+	margin-top: 15px;
+
+}
+.nav{
+	display: flex;
+}
+.footer{
+	display: flex;
+}
+input {
+	height: 10px;
+	margin-top: 20px;
+}
+.text2{
+	margin-top: 20px;
+	margin-left: 5px;
+}
+
+.reg{
+	margin-left: 5px;
+}
